@@ -3,3 +3,5 @@
 # LogCode: https: //osp4diss.vlsm.org/ETC/logcodes.txt
 
 ZCZC W00 20 L01 Github Related
+ZCZC W00 15 L02 Assignment #00
+ZCZC W00 30 L03 Github Related 
