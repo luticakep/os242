@@ -1,7 +1,6 @@
 # OS242: luticakep
 
-[LINKS](LINKS/) --- [LOG](TXT/mylog.txt)
+[LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [Github](https://github.com/luticakep/os242)
 
 <b>
-### REV: Wed 04 Sep 2024 23:02:30 WIB
 <br>
