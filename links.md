@@ -12,6 +12,8 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Vim Basics](https://www.youtube.com/watch?v=ggSyF1SVFr4) --- This video will give you basic information about what you need to know about Vim.
 * [OS Crash Course](https://www.youtube.com/watch?v=26QPDBe-NB8) --- It is recommended for you if you want to learn the fundamental of OS.
 * [Makefile tutorial](https://opensource.com/article/18/8/what-how-makefile) --- The article provides an overview of Makefiles, explaining their purpose, structure, and how they simplify the build automation process for software development.
-* [Learn C](https://www.learn-c.org/) -- This website gives you some exercise about C.
+* [Learn C](https://www.learn-c.org/) --- This website gives you some exercise about C.
+* [How to Tar A File](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/) --- A collection of instruction on how to make a tar file in linux using bash shell.
+
 <br>
 <hr>
