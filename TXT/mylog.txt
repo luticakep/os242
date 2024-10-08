@@ -29,3 +29,10 @@ ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 65 L14 Assignment #04
 ZCZC W04 10 L05 Quiz
 ZCZC W04 25 L14 Assignment #04
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 90 L15 Assignment #05
+ZCZC W05 5 L05 Quiz
+ZCZC W05 40 L15 Assignment #05
+ZCZC W05 15 L04 GitHub related
+ZCZC W05 80 L15 Assignment #05
+ZCZC W05 5 L03 Github related

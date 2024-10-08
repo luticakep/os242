@@ -14,6 +14,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Makefile tutorial](https://opensource.com/article/18/8/what-how-makefile) --- The article provides an overview of Makefiles, explaining their purpose, structure, and how they simplify the build automation process for software development.
 * [Learn C](https://www.learn-c.org/) --- This website gives you some exercise about C.
 * [How to Tar A File](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/) --- A collection of instruction on how to make a tar file in linux using bash shell.
-
+* [Memory in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) --- This article from Geeks for Geeks gives you information about memory management in operating system.
 <br>
 <hr>
