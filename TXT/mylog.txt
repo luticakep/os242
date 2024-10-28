@@ -36,3 +36,9 @@ ZCZC W05 40 L15 Assignment #05
 ZCZC W05 15 L04 GitHub related
 ZCZC W05 80 L15 Assignment #05
 ZCZC W05 5 L03 Github related
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 120 L15 Assignment #05
+ZCZC W06 10 L05 Quiz
+ZCZC W06 40 L15 Assignment #05
+ZCZC W06 15 L04 GitHub related
+ZCZC W06 30 L15 Assignment #05
