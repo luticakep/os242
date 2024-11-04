@@ -16,5 +16,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [How to Tar A File](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/) --- A collection of instruction on how to make a tar file in linux using bash shell.
 * [Memory in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) --- This article from Geeks for Geeks gives you information about memory management in operating system.
 * [Introduction to Docusaurus](https://docusaurus.io/docs#:~:text=Docusaurus%20is%20built%20with%20high,providing%20your%20own%20React%20components) --- This website can help you make another Docusaurus projects.
+* [Semaphore](https://www.youtube.com/watch?v=ukM_zzrIeXs) --- Semaphores cause a lot of confusion for students because they are super flexible and a little weird.
+What is a semaphore? How do they work? (Example in C)" provides an explanation of semaphores, a synchronization tool used in concurrent programming, and includes a practical example implemented in the C programming language
 <br>
 <hr>
