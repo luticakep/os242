@@ -42,9 +42,13 @@ ZCZC W06 10 L05 Quiz
 ZCZC W06 40 L16 Assignment #06
 ZCZC W06 15 L04 GitHub related
 ZCZC W06 30 L16 Assignment #06
-ZCZC W07 100 L17 Assignemnt #07
+ZCZC W07 100 L17 Assignment #07
 ZCZC W07 20 L00 General, etc.
 ZCZC W07 15 L04 Github Pages realated 
-ZCZC W07 120 L17 Assignemnt #07
+ZCZC W07 120 L17 Assignment #07
 ZCZC W07 10 L05 Quiz related
 ZCZC W07 3 L03 Github and git related 
+ZCZC W08 30 L18 Assignment #08
+ZCZC W08 265 L18 Assignment #08
+ZCZC W08 10 L05 Quiz related
+ZCZC W08 5 L03 Github and git related
