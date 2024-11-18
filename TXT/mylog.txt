@@ -52,3 +52,6 @@ ZCZC W08 30 L18 Assignment #08
 ZCZC W08 265 L18 Assignment #08
 ZCZC W08 10 L05 Quiz related
 ZCZC W08 5 L03 Github and git related
+ZCZC W09 250 L19 Assignment #09
+ZCZC W09 10 L05 Quiz related
+ZCZC W09 5 L03 Github and git related

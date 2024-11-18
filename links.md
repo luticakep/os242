@@ -19,5 +19,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Semaphore](https://www.youtube.com/watch?v=ukM_zzrIeXs) --- Semaphores cause a lot of confusion for students because they are super flexible and a little weird.
 What is a semaphore? How do they work? (Example in C)" provides an explanation of semaphores, a synchronization tool used in concurrent programming, and includes a practical example implemented in the C programming language
 * [How To Create Your Own Linux-Based Operating System || What Is LFS?](https://medium.com/@jashaswimalyaacharjee/how-to-create-your-own-linux-based-operating-system-dcfd5ab3bd52) --- This page can direct you into making your own LFS with a simple explanations.
+* [Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo) --- this video tells you a brief about linux boot process
 <br>
 <hr>
